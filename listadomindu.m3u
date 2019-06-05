@@ -1,0 +1,1118 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eAeDme6.jpg" group-title="LISTA ATUALIZADA",LISTA ATUALIZADA
+https://i.imgur.com/eAeDme6.jpg
+
+#EXTINF:0 tvg-logo="http://printv.esy.es:80/server/TV%20Rio%20Sul.png"group-title="TV/ABERTA",GLOBO RIO  SUL SD
+http://painel.ebanonet.com.br:25461/milton34/milton34/24757
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png"group-title="TV/ABERTA",GLOBO RIO
+http://painel.ebanonet.com.br:25461/milton34/milton34/7547 
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO RIO (*)
+http://painel.ebanonet.com.br:25461/1515/1515/7547
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO SP
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png   " group-title="",GLOBO SP (*)
+http://painel.ebanonet.com.br:25461/1515/1515/22757
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO MINAS 
+http://painel.ebanonet.com.br:25461/milton34/milton34/22761
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png " group-title="",GLOBO MINAS(*)
+http://painel.ebanonet.com.br:25461/1515/1515/10276
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO NORDESTE
+http://painel.ebanonet.com.br:25461/izabella/izabella/7527
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO BRASÍLIA
+http://painel.ebanonet.com.br:25461/1515/1515/22769
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/H1oQYWp.png" group-title="",GLOBO BRASÍLIA (*)
+http://painel.ebanonet.com.br:25461/1515/1515/7530
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND SD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w52305968.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND HD
+http://painel.ebanonet.com.br:25461/izabella/izabella/4400
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mzII3GO.png" group-title="",RECORD SD
+http://painel.ebanonet.com.br:25461/vito/vito/25543
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/mzII3GO.png" group-title="",RECORD HD
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg  " group-title="",SBT HD
+http://pndxt01.dyndns.org:25461/fabio01/fabio01/3750
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT 
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg " group-title="",SBT SD
+http://pndxt01.dyndns.org:25461/fabio01/fabio01/3751
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV HD
+http://pndxt01.dyndns.org:25461/fabio01/fabio01/3752
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vAG3q8n.jpg" group-title="",REDE TV SD
+http://painel.ebanonet.com.br:25461/izabella/izabella/20473
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4zgWFOu.png  " group-title="",TV GAZETA
+http://painel.ebanonet.com.br:25461/izabella/izabella/30425
+
+#EXTINF:0 tvg-logo="" group-title="",TV AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/zWRil5x.jpg" group-title="",TV AGRO BRASIL (*)
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w1713020430.m3u8
+
+#EXTINF:0tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="",TV CULTURA 
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:0tvg-logo="https://mitvstatic.com/channels/br_cultura_m.png" group-title="",CULTURA SD
+http://painel.ebanonet.com.br:25461/izabella/izabella/20473
+
+#EXTINF:0tvg-logo="https://i.imgur.com/erib2xQ.png " group-title="",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YMj0xDP.png  " group-title="",RS21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/segment10259102_1200_av-p.ts?sd=10
+
+#EXTINF:0tvg-logo="https:" group-title="",TV RA TIM BUM
+http://painel.ebanonet.com.br:25461/61262/61262/6933
+
+#EXTINF:0tvg-logo="https://3.bp.blogspot.com/-bKaGPzHjo_4/T_Lxx5e2vgI/AAAAAAAAAMo/mQ2TRVW2jgg/s600/V__GC_imagens_logo.png" group-title="",CANÇÃO NOVA
+http://painel.ebanonet.com.br:25461/batista123/batista123/6173
+
+#EXTINF:0tvg-logo="https://www.google.com.br/amp/s/famososnaweb.com/rede-vida-ganhara-nova-identidade-visual/amp/" group-title="",REDE VIDA
+http://painel.ebanonet.com.br:25461/batista123/batista123/6173
+
+#EXTINF:0tvg-logo=" https://pt.wikipedia.org/wiki/Ficheiro:Tv_evangelizar.jpg" group-title="",TV EVAGELIZAR 
+http://painel.ebanonet.com.br:25461/batista123/batista123/6206
+
+#EXTINF:0 tvg-logo="" group-title="",TV NOVO TEMPO
+http://sv1.cineiptv.com:8880/cineelite20578/4895dscf/4285
+
+#EXTINF:0 tvg-logo="" group-title="",TV DIÁRIO 
+http://painel.ebanonet.com.br:25461/61262/61262/4411
+
+#EXTINF:0 tvg-logo="" group-title="",CENTRAL TV
+https://5b6d86cbca7b3.streamlock.net:443/redecentraltv/redecentraltv/chunklist_w402713051.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV LIMEIRA
+http://flash1.crossdigital.com.br/1998/1998/chunklist_w845498713.m3u8?_fwobw=573602&_fwtbw=573602
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+
+#EXTINF:0tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rede_aparecida_de_comunicacao.jpg/200px-Rede_aparecida_de_comunicacao.jpg" group-title="",APARECIDA 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:0tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="",REDE MINAS
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+ ////////////  NOTÍCIAS \\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="NOTÍCIAS",GLOBO NEWS
+http://lista.digitalgroup.me:80/cassio123/cassio123/38716
+
+#EXTINF:0 tvg-logo="" group-title="",RECORD NEWS 
+http://lista.digitalgroup.me:80/cassio123/cassio123/38784
+
+#EXTINF:0 tvg-logo="" group-title="",BAND NEWS
+http://lista.digitalgroup.me:80/cassio123/cassio123/1107
+                 
+///////////// DOCUMENTARIOS \\\\\\\\\\\
+
+#EXTINF:0 tvg-logo=""group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://lista.digitalgroup.me:80/cassio123/cassio123/1719
+
+#EXTINF:0 tvg-logo="" group-title="",Discovery Channel
+http://lista.digitalgroup.me:80/cassio123/cassio123/1084
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY CIVILIZATION
+http://painel.http://lista.digitalgroup.me:80/cassio123/cassio123/20805
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/cassio123/cassio123/1084
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY/THEATER
+http://lista.digitalgroup.me:80/cassio123/cassio123/20807
+
+#EXTINF:0 tvg-logo="" group-title="",HISTÓRY/CHANNEL
+http://lista.digitalgroup.me:80/cassio123/cassio123/2486
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY/TURBO
+http://lista.digitalgroup.me:80/cassio123/cassio123/2486
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY/HOME
+http://lista.digitalgroup.me:80/cassio123/cassio123/2399
+
+#EXTINF:0 tvg-logo="" group-title="",NAT/ GEOGRAPHY
+http://lista.digitalgroup.me:80/cassio123/cassio123/991
+
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO/WILD
+http://lista.digitalgroup.me:80/cassio123/cassio123/995
+
+#EXTINF:0 tvg-logo="" group-title="",TLC 
+http://lista.digitalgroup.me:80/cassio123/cassio123/922
+
+#EXTINF:0 tvg-logo="" group-title="",Off
+http://lista.digitalgroup.me:80/cassio123/cassio123/38728
+
+#EXTINF:0 tvg-logo="" group-title="",LIFETIME 
+http://lista.digitalgroup.me:80/cassio123/cassio123/2492
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="", 
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+    ////////////// VARIEDDADES\\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="VARIEDADES/MUSICAS",GNT
+http://dns.clientetv.xyz:8000/Mario123/Mario123/1713
+
+#EXTINF:0 tvg-logo="" group-title="",MTV
+http://dns.clientetv.xyz:8000/Mario123/Mario123/128
+
+#EXTINF:0 tvg-logo="" group-title="",MULTISHOW 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/212
+
+#EXTINF:0 tvg-logo="" group-title="",MUSIC BOX
+http://dns.clientetv.xyz:8000/Mario123/Mario123/355
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL VIVA
+http://dns.clientetv.xyz:8000/Mario123/Mario123/1860
+
+#EXTINF:0 tvg-logo="" group-title="",COMEDY CENTRAL
+http://dns.clientetv.xyz:8000/Mario123/Mario123/93
+
+#EXTINF:0 tvg-logo="" group-title="",BIS
+http://dns.clientetv.xyz:8000/Mario123/Mario123/428
+
+#EXTINF:0 tvg-logo="" group-title="",MAIS GLOBOSAT
+http://dns.clientetv.xyz:8000/Mario123/Mario123/122
+
+#EXTINF:0 tvg-logo="" group-title="",VH1
+http://dns.clientetv.xyz:8000/Mario123/Mario123/21710
+
+                  ESPORTES
+
+#EXTINF:0 tvg-logo="" group-title="ESPORTES",BAND SPORTS 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/370
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IykUoJI.png" group-title="",COMBATE
+http://dns.clientetv.xyz:8000/Mario123/Mario123/1601
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/IykUoJI.png " group-title="",COMBATE HD
+http://dns.clientetv.xyz:8000/Mario123/Mario123/110
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN
+http://dns.clientetv.xyz:8000/Mario123/Mario123/232
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN 2
+http://dns.clientetv.xyz:8000/Mario123/Mario123/408
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
+http://dns.clientetv.xyz:8000/Mario123/Mario123/369
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN EXTRA
+http://dns.clientetv.xyz:8000/Mario123/Mario123/21632
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS
+http://dns.clientetv.xyz:8000/Mario123/Mario123/368
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS 2
+http://dns.clientetv.xyz:8000/Mario123/Mario123/367
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tI6rfFb.png   " group-title="",ESPORTE INTERATIVO 
+http://bitly.com:80/esporteinterativo-1hd
+
+#EXTINF:0 tvg-logo=" https://i.imgur.com/VDDQSjV.png" group-title="",ESPORTE INTERATIVO 2
+http://bitly.com:80/esporteinterativo-2hd
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="",SPORTV
+http://dns.clientetv.xyz:8000/Mario123/Mario123/109
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="",SPORTV 2
+http://dns.clientetv.xyz:8000/Mario123/Mario123/402
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/sgf2n3a.png" group-title="",SPORTV 3
+http://dns.clientetv.xyz:8000/Mario123/Mario123/366
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg" group-title="",PREMIERE CLUBE
+http://dns.clientetv.xyz:8000/Mario123/Mario123/1930
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg"group-title="",PREMIERE CLUBE
+http://dns.clientetv.xyz:8000/Mario123/Mario123/204
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 2
+http://dns.clientetv.xyz:8000/Mario123/Mario123/259
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jUcnMHk.jpg " group-title="",Premiere 3
+http://dns.clientetv.xyz:8000/Mario123/Mario123/269
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 4
+http://dns.clientetv.xyz:8000/Mario123/Mario123/270
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Preniere 5 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/271
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 6 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/208
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vmwlNej.jpg   " group-title="",Premiere 7
+http://dns.clientetv.xyz:8000/Mario123/Mario123/207                 
+
+         ///////////// NFANTIL \\\\\\\\\\
+
+#EXTINF:0 tvg-logo="" group-title="INFANTIL",BOOMERANG
+http://painel.ebanonet.com.br:25461/izabella/izabella/4396 
+
+#EXTINF:0 tvg-logo="" group-title="",CARTOON NETWORK
+http://painel.ebanonet.com.br:25461/izabella/izabella/7817
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY KIDS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20818
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY JÚNIOR 
+http://painel.ebanonet.com.br:25461/izabella/izabella/4384
+
+#EXTINF:0 tvg-logo="" group-title="",DISNEY XD
+http://painel.ebanonet.com.br:25461/izabella/izabella/4383
+
+#EXTINF:0 tvg-logo="" group-title="",GLOOB
+http://painel.ebanonet.com.br:25461/izabella/izabella/4369
+
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO KIDS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20642
+
+#EXTINF:0 tvg-logo="" group-title="",NICK JR
+http://painel.ebanonet.com.br:25461/izabella/izabella/4346
+
+#EXTINF:0 tvg-logo="" group-title="",NICKLONDEM 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20636
+
+#EXTINF:0 tvg-logo="" group-title="",TOOCAST
+http://painel.ebanonet.com.br:25461/izabella/izabella/20486
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+                     FILMES & SÉRIES 
+
+#EXTINF:0 tvg-logo="" group-title="FILMES/SÉRIES",SPACE
+http://dns.clientetv.xyz:8000/Mario123/Mario123/98
+
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://dns.clientetv.xyz:8000/Mario123/Mario123/380
+
+#EXTINF:0 tvg-logo="" group-title="",TNT SÉRIES 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/21229
+
+#EXTINF:0 tvg-logo="" group-title="",MAX
+http://dns.clientetv.xyz:8000/Mario123/Mario123/40078
+
+#EXTINF:0 tvg-logo="" group-title="",MAX UP
+http://dns.clientetv.xyz:8000/Mario123/Mario123/41955
+
+#EXTINF:0 tvg-logo="" group-title="",MAXPRIME
+http://painel.ebanonet.com.br:25461/izabella/izabella/4357
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL BRASIL Off
+http://painel.ebanonet.com.br:25461/izabella/izabella/10293
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL BRASIL HD Off
+http://painel.ebanonet.com.br:25461/izabella/izabella/6963
+
+#EXTINF:0 tvg-logo="" group-title="",MEGAPIX
+http://dns.clientetv.xyz:8000/Mario123/Mario123/112
+
+#EXTINF:0 tvg-logo="" group-title="",PARAMOONT
+http://dns.clientetv.xyz:8000/Mario123/Mario123/21195
+
+#EXTINF:0 tvg-logo="" group-title="",CANAL SONY
+http://dns.clientetv.xyz:8000/Mario123/Mario123/186
+
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL 
+http://dns.clientetv.xyz:8000/Mario123/Mario123/21351
+
+#EXTINF:0 tvg-logo="" group-title="",WARNER
+http://dns.clientetv.xyz:8000/Mario123/Mario123/266
+
+#EXTINF:0 tvg-logo="" group-title="",UNIVERSAL  CHANNEL
+http://dns.clientetv.xyz:8000/Mario123/Mario123/265
+
+#EXTINF:0 tvg-logo="" group-title="",A&E
+http://dns.clientetv.xyz:8000/Mario123/Mario123/1487
+
+#EXTINF:0 tvg-logo="" group-title="",AXN
+http://dns.clientetv.xyz:8000/Mario123/Mario123/188
+
+#EXTINF:0 tvg-logo="" group-title="",CINEMAX
+http://dns.clientetv.xyz:8000/Mario123/Mario123/236
+
+#EXTINF:0 tvg-logo="" group-title="",FOX
+http://dns.clientetv.xyz:8000/Mario123/Mario123/260
+
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 1
+http://painel.ebanonet.com.br:25461/izabella/izabella/20763
+
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20764
+
+#EXTINF:0 tvg-logo="" group-title="",FX
+http://painel.ebanonet.com.br:25461/izabella/izabella/20777
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",TCM
+http://painel.ebanonet.com.br:25461/izabella/izabella/20496
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/M9RuAA?" group-title="",AMC
+http://painel.ebanonet.com.br:25461/izabella/izabella/20891
+
+#EXTINF:0 tvg-logo="" group-title="",SYFY
+http://painel.ebanonet.com.br:25461/izabella/izabella/4323
+
+#EXTINF:0 tvg-logo="" group-title="",HBO
+http://painel.ebanonet.com.br:25461/izabella/izabella/20694
+
+#EXTINF:0 tvg-logo="" group-title="",HBO 2
+http://painel.ebanonet.com.br:25461/izabella/izabella/20690
+
+#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
+http://painel.ebanonet.com.br:25461/izabella/izabella/20688
+
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
+http://painel.ebanonet.com.br:25461/izabella/izabella/20684
+
+#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20679
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION 
+http://painel.ebanonet.com.br:25461/izabella/izabella/4320
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
+http://painel.ebanonet.com.br:25461/izabella/izabella/4318
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
+http://painel.ebanonet.com.br:25461/izabella/izabella/4317
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
+http://painel.ebanonet.com.br:25461/izabella/izabella/4316
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCHE
+http://painel.ebanonet.com.br:25461/izabella/izabella/4315
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
+http://painel.ebanonet.com.br:25461/izabella/izabella/4319
+
+                         FILMES/24 HORAS
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title=" FILMES/24HORAS",FILMES 24 HORAS 1
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21387.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title="",FILMES 24 HORAS 3
+http://dns.cinebr.xyz:25461/live/MgZZcHP0TV/Y8MLd0b10L/21289.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title="",FILMES 24 HORAS 3
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title="",TV FILMES
+http://stmv2.srvstm.com:80/tvjsid/tvjsid/media_98430.ts?wowzasessionid=542282957
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title="",CINE GOSPEL
+http://stmv2.srvstm.com:80/gospelf/gospelf/media_21256.ts?wowzasessionid=1553920709
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZITOibK.png" group-title="",CINE GOSPEL CARTOOM 
+http://stmv1.srvstm.com:80/gospelcartoon/gospelcartoon/media_4767.ts?wowzasessionid=888109845
+              
+                  CANAIS  ADULTOS
+
+#EXTINF:0 tvg-logo="" group-title="CANAIS/ADULTOS",JASMIM TV
+http://painel.ebanonet.com.br:25461/izabella/izabella/6201
+
+#EXTINF:0 tvg-logo="" group-title="",VENNUS
+http://painel.ebanonet.com.br:25461/izabella/izabella/6081
+
+#EXTINF:0 tvg-logo="" group-title="",PLAYBOY TV 
+http://painel.ebanonet.com.br:25461/izabella/izabella/20448
+
+#EXTINF:0 tvg-logo="" group-title="",SEX PRIVE
+http://painel.ebanonet.com.br:25461/izabella/izabella/20446
+
+#EXTINF:0 tvg-logo="" group-title="",SEXTRENE
+http://painel.ebanonet.com.br:25461/izabella/izabella/20449 
+
+#EXTINF:0 tvg-logo="" group-title="",SEX HOT
+http://painel.ebanonet.com.br:25461/izabella/izabella/4329
+
+#EXTINF:0 tvg-logo="" group-title="",VENUS
+http://painel.ebanonet.com.br:25461/61262/61262/6081
+
+                       SHOWS
+                       
+#EXTINF:0 tvg-logo="" group-title="SHOWS",ANITTA 1
+http://webtvcde.com:80/Servidor/sh/amlkus.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",ANITTA 2
+http://webtvcde.com:80/Servidor/sh/apash7.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",CRISTIANO ARAUJO
+http://webtvcde.com:80/Servidor/sh/caitca.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",GUSTAVO LIMA 5O/50
+http://webtvcde.com:80/Servidor/sh/gl50om.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",ENRIQUE & JULIANO
+http://webtvcde.com:80/Servidor/sh/hejavb.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",CABARÉ 
+http://webtvcde.com:80/Servidor/sh/leeccn.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",MAIARA & MARISA 
+http://webtvcde.com:80/Servidor/sh/lsonth.mp4
+
+
+#EXTINF:0 tvg-logo="" group-title="",MAMONAS ASSASSINAS 
+http://webtvcde.com:80/Servidor/sh/mpsjei.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+                        RADIOS 
+                        
+#EXTINF:0 tvg-logo="" group-title="RADIOS",RADIO FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO TRANSAMERICA
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO FUNK BRASIL
+http://192.99.150.31:9089/
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO MIX FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO INFANTIL 
+http://192.99.150.31:9431/
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO MPB
+http://192.99.150.31:8775/
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO FORRÓ 
+http://192.99.150.31:9019/
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO GOSPEL
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:0 tvg-logo="" group-title="",RADIO AXÉ 
+http://192.99.150.31:8305/
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+    
+                 FILMES E LANÇAMENTOS 
+           
+#EXTINF:0 tvg-logo="https://i.imgur.com/jDLWaQ6.jpg " group-title="FILMES/VARIADOS",
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg?ts=20141222170718" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Triplo X - Ação - Dublado 
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg?ts=20150225175910" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Homen Sombra - Ação - Dublado 
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg?ts=20140406101230" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",XXX2 - Estado de Emergencia - Ação - Dublado 
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg?ts=20140407231429" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Replicante - Ação - Dublado 
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg?ts=20140407231628" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",JCVD - Ação - Dublado 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/28N0xlS" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Forasteiro 2 - Ação - Dublado 
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/28NkGau" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Anjos da Noite 3 - A Rebeliao - Ação - Dublado 
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_YJ5kgB-UVT8/S0xiMvxGOGI/AAAAAAAAAZM/JoLWl4lmYCI/s250/eu+sou+espiao.jpg&w=166&h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Sou Espiao - Ação - Dublado 
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/28Lacpn" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Assalto Sobre Trilhos - Ação - Dublado 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-excesso-de-bagagem-alicia-silverstone-14215-MLB88858427_559-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Excesso de Bagagem - Ação - Dublado 
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg?ts=20130429224803" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Vinganca - Ação - Dublado 
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Horas de Desespero - Ação - Dublado 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg?ts=20131121023127" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Haven - Ação - Dublado 
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Agente Indomavel - Ação - Dublado 
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg?ts=20140219014649" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Guerra ao Terror - Ação - Dublado 
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://goo.gl/oJ5KXQ" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Fantasmas de Marte - Ação - Dublado 
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",S.W.A.T. - Comando Especial - Ação - Dublado 
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg?ts=20130301124935" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Crash: No Limite - Ação - Dublado 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://static.cinedica.com.br/capasm/6147.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Mergulho Radical 2: Os Recifes - Ação - Dublado 
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/92/09/53/20180406.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Hooligans: Furia nos campos - Ação - Dublado 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/q/mm/h0dyb_tnl_210x118.jpg?ts=20140116232555" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",A Era da Escuridao - Mutant Chronicles - Ação - Dublado 
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/9T49PT" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Caes de Guerra - Ação - Dublado 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://goo.gl/jlezfX" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Conquista Sangrenta - Ação - Dublado 
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-original-do-filme-desafio-radical-devon-sawa-14507-MLB3055191906_082012-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Desafio Radical - Ação - Dublado 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_qzW5Q7OTOqc/SZxSF5WUsOI/AAAAAAAABjg/NagKJ2gZaPM/s250/divisao.jpeg&w=166&h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Divisao de Homicidios - Ação - Dublado 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://goo.gl/K3nZSO" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Godzilla (1998) - Ação - Dublado 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_lK3IcXkTsJQ/TOqFdtjmT4I/AAAAAAAAAS8/Z64IHFH46uY/s250/gfh5nbv.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Cacada sem Treguas - Ação - Dublado 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://goo.gl/dqCF94" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Honra e Coragem - As Quatro Plumas - Ação - Dublado 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg?ts=20121126181406" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Impacto Mortal - Ação - Dublado 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://goo.gl/imUqoq" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Karate Kid 3 - O Desafio Final Filme - Ação - Dublado 
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-9Tx7A1GJjTA/TcBiYXYYF_I/AAAAAAAABco/K0fs2f2CdkY/s640/matador%2Bde%2Baluguel.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Matador De Aluguel - Ação - Dublado 
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.saudadeeadeus.com.br/images/colecionador_ossos.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Colecionador de Ossos - Ação - Dublado 
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-YjVYBCmC86A/Ur9jJsvT7VI/AAAAAAAARsc/axm5DzjE4T0/s1600/O+grande+anjo+negro+poster.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Grande Anjo Negro - Ação - Dublado 
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/s/am/pddyb_tnl_210x118.jpg?ts=20130912022729" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Guardiao - Ação - Dublado 
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/o/im/wrdyb_tnl_210x118.jpg?ts=20131119184818" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Guardiao - 2 Retorno As Minas do Rei Salomao - Ação - Dublado 
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/o/im/vrdyb_tnl_210x118.jpg?ts=20131119184648" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Guardiao 3 - A Maldicao do Calice de Judas - Ação - Dublado 
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg?ts=20130723012026" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Legionario - Ação - Dublado 
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg?ts=20130304183010" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",O Senhor das Armas - Ação - Dublado 
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Os Reis de Dogtown - Ação - Dublado 
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/682096_1.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Red - Aposentados e Perigosos - Ação - Dublado 
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg?ts=20131121020104" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Risco Absoluto - Ação - Dublado 
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.moviepilot.de/files/images/0579/4090/3musk.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",RoboCop 2 - Ação - Dublado 
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/h2tbmH" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Rocky Balboa - Ação - Dublado 
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg?ts=20130626022523" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Ruslan - Vinganca Explosiva - Ação - Dublado 
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg?ts=20111102095941" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Soldado Universal 3 - Regeneracao - Ação - Dublado 
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg?ts=20130429223858" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Tempos de Violencia - Ação - Dublado 
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w8tq3EXTCCY/TaZEosyEriI/AAAAAAAAAQU/-YGCuojAmNA/s1600/Um+Ato+de+Liberdade.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Um Ato de Liberdade - Ação - Dublado 
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/promoco-dvd-viciado-em-sexo-orig-raro-14184-MLB227102488_3468-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Viciado em Sexo - Ação - Dublado 
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Vou Te Pegar Otario - Ação - Dublado 
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Wasabi - Ação - Dublado 
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1WMDrhu" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Bruno - Comédia - Dublado 
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/g/f6/34ylf_tnl_210x118.jpg?ts=20150319123206" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Casamento as Avessas - Comédia - Dublado 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/n/f6/w2ylf_tnl_210x118.jpg?ts=20150319114847" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O ABC do Amor - Comédia - Dublado 
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/a/56/lq1lf_tnl_210x118.jpg?ts=20150319144703" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Juno - Comédia - Dublado 
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg?ts=20150225004527" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",As Branquelas - Comédia - Dublado 
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg?ts=20150226222223" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Bons Costumes - Comédia - Dublado 
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg?ts=20150225004008" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Julie & Julia - Comédia - Dublado 
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg?ts=20141215203848" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",De Repente 30 - Comédia - Dublado 
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg?ts=20141111004517" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Meus Quinze Anos - Comédia - Dublado 
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg?ts=20140407230223" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Adoraveis Mulheres - Comédia - Dublado 
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg?ts=20140407213803" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Uma Beleza de Salao - Comédia - Dublado 
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/l6/zjwlf_tnl_210x118.jpg?ts=20140407114709" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Lembrancas de Hollywood - Comédia - Dublado 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/_/d6/i5vlf_tnl_210x118.jpg?ts=20140406222056" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",All That Jazz - O Show Deve Continuar - Comédia - Dublado 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/v/96/a41lf_tnl_210x118.jpg?ts=20141222175917" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Mal Posso Esperar - Comédia - Dublado 
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/4m/d9fyb_tnl_210x118.jpg?ts=20141117183313" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Um Criminoso Decente - Comédia - Dublado 
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/4/8l/t7cyb_tnl_210x118.jpg?ts=20130818173213" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Os Seus, os Meus e os Nossos - Comédia - Dublado 
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg?ts=20140407051244" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Os Produtores - Comédia - Dublado 
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/2/d6/g4vlf_tnl_210x118.jpg?ts=20140406173834" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O clube de Leitura de Jane Austen - Comédia - Dublado 
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg?ts=20140407221240" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Lua de Mel em Las Vegas - Comédia - Dublado 
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg?ts=20140530223520" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Jogue a Mamae do Trem - Comédia - Dublado 
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg?ts=20140623175915" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Feitico da Lua - Comédia - Dublado 
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg?ts=20140405171459" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Eu, Minha Mulher e Minhas Copias - Comédia - Dublado 
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg?ts=20141117191914" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Annie - Comédia - Dublado 
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg?ts=20140806022041" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",A Pantera Cor de Rosa - Comédia - Dublado 
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/q/im/7odyb_tnl_210x118.jpg?ts=20131025161222" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",A Rosa Purpura do Cairo - Comédia - Dublado 
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg?ts=20140405153323" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Mixed Nuts - Comédia - Dublado 
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg?ts=20140405112550" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Ricky Bobby - A Toda Velocidade - Comédia - Dublado 
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/f/gl/rnbyb_tnl_250x141.jpg?ts=20121128184759" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Superbad - E Hoje - Comédia - Dublado 
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg?ts=20140826224640" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Uma Festa no Ar - Comédia - Dublado 
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4 
+
+#EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Uma Turma Do Barulho - Comédia - Dublado http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-az.crackle.com/profiles/channels/100000114/BrowserPanelChannelBackground_300x169.jpg?ts=20121026110620" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Ultimo Grande Heroi - Comédia - Dublado http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/pictures/210/211/21021105_20130718205428458.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Kung-Fusao - Comédia - Dublado http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/o-oposto-do-sexo-christina-ricci-dublado-14695-MLB72322752_7734-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Oposto do Sexo - Comédia - Dublado http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg?ts=20130817045430" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Ironias do Amor - Comédia - Dublado http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/S8FQSfNxFBI/AAAAAAAABbI/dH4bsgNcf9o/s1600/Um.Peixe.Chamado.Wanda.DVDRIP.Xvid.Dublado.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Um Peixe Chamado Wanda - Comédia - Dublado http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg?ts=20140414192334" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Bastidores de um Casamento - Comédia - Dublado http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg?ts=20140729190051" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Chamado de Xangai - Comédia - Dublado http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/wl/recyb_tnl_210x118.jpg?ts=20130517224205" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Paraiso e Logo Aqui - Comédia - Dublado http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg?ts=20130817042719" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Nem Por Cima do Meu Cadaver - Comédia - Dublado http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/LlPybm" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Adeus Amor - Comédia - Dublado http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/31/46/19874221.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Um Amor de Verao - Comédia - Dublado http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://www.zerozen.com.br/video/otario01.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Otario - Comédia - Dublado http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://static.cinedica.com.br/capasm/6188.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Tres Mulheres, Tres Amores - Comédia - Dublado http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-p8Vo6FUVnmM/VCAvlsAQQ1I/AAAAAAAAIcM/eOIBHh2W-_Q/s1600/Meu%2BPrimeiro%2BAmor%2B-%2BParte%2B2.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Meu Primeiro Amor - Parte 2 - Comédia - Dublado http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Segurando As Pontas - Comédia - Dublado http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Kung-Fu Futebol Clube - Comédia - Dublado http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://www.cranik.com/images/mrdeeds.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",A Heranca de Mr. Deeds - Comédia - Dublado http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/c745267dc4124ef799f15d070008660a.jpeg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",A Ultima Missao - Comédia - Dublado http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28N2ZtI" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",A Volta dos Mortos Vivos - Comédia - Dublado http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/Q74b09" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Almondegas 4 - Ferias de Verao - Comédia - Dublado http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/l6/1dwlf_tnl_210x118.jpg?ts=20150319084339" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Bolas em Panico - Comédia - Dublado http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://static.cinedica.com.br/capasm/10283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Como conquistar uma mulher - Comédia - Dublado http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/wl/tecyb_tnl_210x118.jpg?ts=20130517223307" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Fido - O Mascote - Comédia - Dublado http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Funcionario do Mes - Comédia - Dublado http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Grande Hotel - Comédia - Dublado http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Jogando com Prazer - Comédia - Dublado http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Jogos, Trapacas E Dois Canos Fumegantes - Comédia - Dublado http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Nao e Mais um Besteirol Americano - Comédia - Dublado http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Balconista - Comédia - Dublado http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Julgamento de Paris - Comédia - Dublado http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4 #EXTINF:-1 tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",O Paizao - Comédia - Dublado http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Os Safados - Comédia - Dublado http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Procurando Encrenca - Comédia - Dublado http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28LFoVE" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Provas E Trapacas - Comédia - Dublado http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg?ts=20121126180437" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Quase Ilegal - Comédia - Dublado http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/2kZgV0" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Secretaria - Comédia - Dublado http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg?ts=20131029012940" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Sob Suspeita - Comédia - Dublado http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Swingers - Curtindo a Noite - Comédia - Dublado http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Trabalho Sujo - Comédia - Dublado http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/VQMpn2" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Tres Amigos! - Comédia - Dublado http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/mPRLIW" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Uma Noiva e Tanto - Comédia - Dublado http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Vamos Nessa - Comédia - Dublado http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/8/16/5p1lf_tnl_210x118.jpg?ts=20150319135628 " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Sacrifício - Crime - Dublado http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/l6/ydwlf_tnl_210x118.jpg?ts=20140407063858 " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",A Informante - Crime - Dublado http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-o-sangue-de-romeo-gary-oldman-14575-MLB95378491_5724-O.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",O Sangue de Romeo - Crime - Dublado http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/93/75/92/20275887.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",O Inquilino - Crime - Dublado http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rvm54VwSzGI/UBN06wq9OFI/AAAAAAAAIN4/zgohwGDAVmU/s250/filme+mulher+solteira+procura.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Solteira Procura 2 - Crime - Dublado http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-original-do-filme-paraiso-14505-MLB3104010334_092012-O.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Paraiso - Crime - Dublado http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/pUu7dw " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Poder e Corrupcao. Dirty - Crime - Dublado http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://megapix.img.estaticos.tv.br/cache/cartazes/amigos-de-caca_cartaz_220x284.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Amigo de Caca - Crime - Dublado http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148 " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Aprendendo A Viver - Crime - Dublado http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/c/qm/75dyb_tnl_210x118.jpg?ts=20140219012906 " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Caminhos Opostos - Crime - Dublado http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Eu Sei Quem Me Matou - Crime - Dublado http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/6/8l/27cyb_tnl_210x118.jpg?ts=20130904015547 " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Homens Perigosos - Crime - Dublado http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/29/50/19874017.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",O Sequestro do Metro 123 - Crime - Dublado http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/76/63/19961328.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",O Tango e o Assassino - Crime - Dublado http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_7HNyPzlnadY/StUnB_XadjI/AAAAAAAAAT0/FJVkgkUJoPo/s400/60secondsdvdvs2ja7.jpg " group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Crime",Ouro Branco - Crime - Dublado http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg?ts=20150319121122" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",As Faces de Helen - Dublado - Drama http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg?ts=20140407184313" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Encontros ao Acaso - Dublado - Drama http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg?ts=20140406014615" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Sexo, Mentiras e Videotape - Dublado - Drama http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/96/b41lf_tnl_210x118.jpg?ts=20150226222527" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Vestigios do Dia - Dublado - Drama http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg?ts=20140407115042" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Lendas da Paixao - Dublado - Drama http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg?ts=20141027193137" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Rain Man - Dublado - Drama http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg?ts=20140407115036" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Desaparecidas - Dublado - Drama http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/q/sl/wbcyb_tnl_210x118.jpg?ts=20140407013733" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Sem Vestigios - Dublado - Drama http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1WUZuTj" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Wild Card - Jogo Duro - Dublado - Drama https://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg?ts=20140407203352" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Os Miseraveis - Dublado - Drama http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg?ts=20140405171055" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Aprendiz - Dublado - Drama http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg?ts=20140729190057" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Nas Profundezas Do Mar Sem Fim - Dublado - Drama http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://molhoingles.com/wp-content/uploads/2012/03/lawrence-da-arabia.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Lawrence da Arabia - Dublado - Drama http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg?ts=20140215040928" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Nao Sem a Minha Filha - Dublado - Drama http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/p/wm/6ufyb_tnl_210x118.jpg?ts=20140929173900" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",A Outra - Dublado - Drama http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://famososnaweb.com/wp-content/uploads/2015/01/amigas.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Amigas com Dinheiro - Dublado - Drama http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://www4.cinemaemcena.com.br/gabinetedokas/wp-content/uploads/old/homem_fora_serie.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Um homem fora-de-serie - Dublado - Drama http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28LDRiv" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Segundas Intencoes 3 - Dublado - Drama http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/pictures/14/03/19/20/14/334055.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Garotas Selvagens 4 - Dublado - Drama http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/32/95/19874376.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Povo Contra Larry Flynt - Dublado - Drama http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg?ts=20140624185200" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Codigo de Honra - Dublado - Drama http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/sedutora-e-diabolica_cartaz_220x283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Sedutora e diabolica - Dublado - Drama http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-16x-byBGFd0/Tfj3HfwnIFI/AAAAAAAAAMg/fVE5ZwJV4sc/s1600/five+easy+pieces.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Cada um Vive Como Quer - Dublado - Drama http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28Lzw02" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",As coisas impossiveis do amor - Dublado - Drama http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/24/19874302.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Vidas Que Se Cruzam - Dublado - Drama http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Despertar de uma Paixao - Dublado - Drama http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/17/45/19872769.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Por Amor - Dublado - Drama http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://guiadoscuriosos.com.br/blog/wp-content/uploads/2014/02/MPW-13543.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Oliver! - Dublado - Drama http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/AJA5Q1" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Laurel Canyon - A Rua das Tentacoes - Dublado - Drama http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4 #EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/rancho-do-amor_cartaz_220x283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Rancho do Amor - Dublado - Drama http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://static.omelete.uol.com.br/legacy/imagens/cinema/artigos2/um_segredo_entre_nos/poster.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Um Segredo Entre Nos - Dublado - Drama http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Erin Brockovich - Uma Mulher de Talento - Dublado - Drama http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Sete Vidas - Dublado - Drama http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg?ts=20140613195929" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Hackers - Piratas de Computador - Dublado - Drama http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/nl0OJs" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",12 Horas - Dublado - Drama http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/V7PFMY" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",8mm - Oito Milimetros - Dublado - Drama http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TTzF5UqPHuI/AAAAAAAAFO4/0i8SLCRjChY/s250/8MM%2B2%2B-%2BOito%2BMil%25C3%25ADmetros%2B2.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",8mm - Oito Milimetros 2 - Dublado - Drama http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/28/18/19873882.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Caminho Sem Volta - Dublado - Drama http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/c/qm/55dyb_tnl_210x118.jpg?ts=20140215040200" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",A festa nunca termina - Dublado - Drama http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/eN1sCU" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",A Grande Jogada - Dublado - Drama http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/46/96/20258667.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",As Duas Faces Da Lei - Dublado - Drama http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Coisas Belas E Sujas - Dublado - Drama http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/s/im/cpdyb_tnl_210x118.jpg?ts=20131029003846" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Femme Fatale - Dublado - Drama http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28LKSSu" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Inocente Ou Culpado - Dublado - Drama http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/0l/qscyb_tnl_210x118.jpg?ts=20130626020853" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Luta Pela Liberdade - Dublado - Drama http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Cantor - Dublado - Drama http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/ol/w0byb_tnl_210x118.jpg?ts=20130222042219" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Ilusionista - Dublado - Drama http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-filme-o-resgate-de-um-campeo-dublado-14365-MLB212187990_2182-F.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Regaste de um Campeao - Dublado - Drama http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/2jlq9v" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",O Vigarista do ano - Dublado - Drama http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://cinezencultural.com.br/site/wp-content/uploads/2009/08/rededeintrigas.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Rede de Intrigas - Dublado - Drama http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/seducao-fatal_cartaz_220x283.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Seducao Fatal - Dublado - Drama http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/70303_f1.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Seis Graus de Separacao - Dublado - Drama http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/t/am/sddyb_tnl_210x118.jpg?ts=20130912034254" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Sem Saida - Dublado - Drama http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/21/59/19873197.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Studio 54 - Dublado - Drama http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/8/sl/ydcyb_tnl_210x118.jpg?ts=20130429232410" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Drama",Um Homem Bom - Dublado - Drama http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/wl/secyb_tnl_210x118.jpg?ts=20130517223448" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Documentário",Primeira Descida - Documentário - Dublado http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/h6/57vlf_tnl_210x118.jpg?ts=20150319074354" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Fantasia",Uma Garota Encantada - Dublado - Fantasia http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg?ts=20150319151355" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Fantasia",Simplesmente Alice - Dublado - Fantasia http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg?ts=20140405033900" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Feitico do Tempo - Dublado - Ficção http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg?ts=20110917104501" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Anjos da Noite: A Evolucao - Dublado - Ficção http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg?ts=20141222172140" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Hancock - Dublado - Ficção http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/n6/j9ulf_tnl_210x118.jpg?ts=20140405171038" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Fuga de Absolom - Dublado - Ficção http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/z/n6/v9ulf_tnl_210x118.jpg?ts=20140405174313" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Dr. Fantastico - Dublado - Ficção http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/h/om/lffyb_tnl_210x118.jpg?ts=20140623175138" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Supernova - Dublado - Ficção http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg?ts=20140406004625" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Starman - O Homem das Estrelas - Dublado - Ficção http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/e/um/qaeyb_tnl_210x118.jpg?ts=20140313025209" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Robocop 3 - Dublado - Ficção http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/o/d6/y2vlf_tnl_210x118.jpg?ts=20140406144444" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Robocop - O Policial do Futuro - Dublado - Ficção http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg?ts=20140407010437" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Herois - Dublado - Ficção http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yC451wGpQYc/Ua_7UrelWzI/AAAAAAAAAL8/KdwTr1j7_mU/s320/Resident+Evil+-+O+Hospede+Maldito.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Resident Evil - O Hospede Maldito - Dublado - Ficção http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg?ts=20140216050223" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",1984 - Dublado - Ficção http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Contatos Imediatos de Terceiro Grau - Dublado - Ficção http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/01/02/19871066.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Equilibrio - Dublado - Ficção http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/Ouo4iq" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",eXistenZ - Dublado - Ficção http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/n5l8LV" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Skyline - A Invasao - Dublado - Ficção http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/4l/1wcyb_tnl_210x118.jpg?ts=20130723012745" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Violacao de Privacidade - Dublado - Ficção http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/P1gKSd" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ficção Científica",Resident Evil 3. A Extincao - Dublado - Ficção http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg?ts=20140827235501" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Guerra",Lagrimas do Sol - Guerra - Dublado http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/3/v6/01zlf_tnl_210x118.jpg?ts=20140530224248" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Guerra",A Guerra de Hart - Guerra - Dublado http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/16/6p1lf_tnl_210x118.jpg?ts=20150319135935" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Os Mensageiros - Terror - Dublado http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg?ts=20140414192627" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Stigmata - Terror - Dublado http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg?ts=20140828000203" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Resident Evil - Apocalipse - Terror - Dublado http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/16/68wlf_tnl_210x118.jpg?ts=20140407152126" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",O Albergue 2 - Terror - Dublado http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg?ts=20140407054512" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Jovens Bruxas - Terror - Dublado http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/_/h6/tcwlf_tnl_210x118.jpg?ts=20140407045421" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Evil Dead - A Morte do Demonio - Terror - Dublado http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/10/07/20/11/210244.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",O Albergue - Terror - Dublado http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_yDXkSU18DUc/SwfehPM4UsI/AAAAAAAAABo/4QykdqJ5zJw/s320/GRD_lenda2.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Lenda Urbana 2 - Terror - Dublado http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/xnU11V" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Silent Hill. Revelacao - Terror - Dublado http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/s/ml/pkayb_tnl_210x118.jpg?ts=20140406162015" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",O Grito 2 - Terror - Dublado http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Christine - O Carro Assassino - Terror - Dublado http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/t/am/uddyb_tnl_210x118.jpg?ts=20130912035430" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Brinquedo Assassino - Terror - Dublado http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28N2sbe" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Kalifornia - Uma Viagem ao Inferno - Terror - Dublado http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/28KZBKw" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Não Adianta Fugir - Terror - Dublado http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gpoIzH_d9nw/TeKj6reaCZI/AAAAAAAAJvs/yJTkc-QPJuo/s320/o+principal+suspeito.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",O Principal Suspeito - Terror - Dublado http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/4EurwC" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",REC - Terror - Dublado http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_l1HtIw7ZdA0/Sy9MpO-3MDI/AAAAAAAACEo/0iHKWEUXlns/s400/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Tentaculos - Terror - Dublado http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/q/4l/yucyb_tnl_210x118.jpg?ts=20130626021755" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Torturado - Terror - Dublado http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Terror",Vestida Para Matar - Terror - Dublado http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg?ts=20150319043936" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Greta - Romance - Dublado http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg?ts=20140925193105" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Como Se Fosse a Primeira Vez - Romance - Dublado http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg?ts=20140407052527" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Atraidos Pelo Destino - Romance - Dublado http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg?ts=20140430214737" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Persuasao - Romance - Dublado http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg?ts=20141113192534" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",O Melhor Amigo da Noiva - Romance - Dublado http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg?ts=20130817044800" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Nicholas Nickleby - Romance - Dublado http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg?ts=20140625202855" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Africa dos Meus Sonhos - Romance - Dublado http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/t/am/vddyb_tnl_210x118.jpg?ts=20130912041715" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",O Segredo de Brokeback Mountain - Romance - Dublado http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg?ts=20140827233900" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Pegar e Largar - Romance - Dublado http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg?ts=20140929194144" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Funny Lady - Romance - Dublado http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/lz6TQh" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",O Casamento de Rachel - Romance - Dublado http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",Apenas Uma Vez - Romance - Dublado http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/62/19874342.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Romance",A Jovem Rainha Victoria - Romance - Dublado http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1UhJU0v" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Tropa de Elite - 2007 - 720p - Dublado - Suspense https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/TRPDELT1.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1tu6cUe" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",72 Horas - 2010 - 1080p - Dublado - Suspense https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/72HRS.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1YojWuZ" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Advogado do Diabo - 1998 - 720p - Dublado - Suspense https://googledrive.com/host/0B8Bn5QmKvSLeYzlfZnl0TEJoVHc/ADVGDIAB.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1Yog5Oz" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",O Ritual (2012) - Dublado - Suspense http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/u/56/rv1lf_tnl_210x118.jpg?ts=20141111004527" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",A Janela Secreta - Dublado - Suspense http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/5/16/qp1lf_tnl_210x118.jpg?ts=20140710001508" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Segundas Intencoes 3 - Dublado - Suspense http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1tubwHk" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Na Companhia Do Medo - Dublado - Suspense http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/il/r46wb_tnl_250x141.jpg?ts=20140406030608" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",O Codigo Da Vinci - Dublado - Suspense http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/j6/uwulf_tnl_250x141.jpg?ts=20140405082848" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Rios Vermelhos - Dublado - Suspense http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/y/56/bw1lf_tnl_250x141.jpg?ts=20140930164826" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Sem Vestigios - Dublado - Suspense http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg?ts=20140406232025" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Desejo a Tres - Dublado - Suspense http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1Usp1kF" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Red Corner - Dublado - Suspense http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4 #EXTINF:-1 tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebc2d95586.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Comportamento Suspeito - Dublado - Suspense http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/94/02/14/20296120.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Mulher Solteira Procura - Dublado - Suspense http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://portal.julund.com.br/wp-content/uploads/2010/07/Quando-um-Estranho-Chama.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Quando um Estranho Chama - Dublado - Suspense http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://bocadoinferno.com/wp-content/uploads/2013/08/Estrada-Maldita-2007-4.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Estrada Maldita - Dublado - Suspense http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4 #EXTINF:-1 tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/01/Lenda-Urbana-3-2005-5.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Lenda Urbana 3 - A Vinganca de Mary - Dublado - Suspense http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/5wboLx" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Stigmata - Dublado - Suspense http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/0AVPx7" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Quarentena - Dublado - Suspense http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/wRDZjS" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Identidade - Dublado - Suspense http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://pipocacombo.com/wp-content/uploads/2012/01/A-beira-do-Abismo-331x480.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",A Beira do Abismo - Dublado - Suspense http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4 #EXTINF:-1 tvg-logo="http://goo.gl/kQezH1" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Amar.Trair e Roubar - Dublado - Suspense http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4 #EXTINF:-1 tvg-logo="https://goo.gl/9kqQ5E" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Cativeiro - Dublado - Suspense http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://www.pluhma.com/locadora/capas/6289.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Corpo em Evidencia - Dublado - Suspense http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg?ts=20130429233115" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Enquanto Ela Estiver Fora - Dublado - Suspense http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4 #EXTINF:-1 tvg-logo="http://www.blogsoestado.com/emcartaz/files/2012/10/Estranha.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Estranha Obsessao - Dublado - Suspense http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg?ts=20130714165629" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Hotel Ruanda - Dublado - Suspense http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4 #EXTINF:-1 tvg-logo="http://images.quebarato.com.br/T440x/filme+malicia+jequie+ba+brasil__6FFD2D_1.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Malicia - Dublado - Suspense http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4 #EXTINF:-1 tvg-logo="http://bit.ly/1Uso1gh" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Suspense",Sociedade Feroz - Dublado - Suspense http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4      
+                 
+
+#EXTINF:0 tvg-logo="http://ap.imagensbrasil.org:80/images/2018/02/20/lancamentojaneiro.png" group-title="FILMES/LANÇAMENTO",O ano da Extinção 
+http://webtvcde.com:80/Novas/2019.O.Ano.da.Extincao.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A casa do Medo incidente 
+http://webtvcde.com:80/Novas/A.Casa.do.Medo.Incidente.em.Ghostland.mkv
+
+#EXTINF:0 tvg-logo="" group-title="",Bohemian.Rhapsody
+http://webtvcde.com:80/Novas/Bohemian.Rhapsody.avi
+
+#EXTINF:0 tvg-logo="" group-title="",Doctor.Who.Resolution
+http://webtvcde.com:80/Novas/Doctor.Who.Resolution.mkv
+
+#EXTINF:0 tvg-logo="" group-title="",Doces.ou.Travessuras
+http://webtvcde.com:80/Novas/Doces.ou.Travessuras.2019.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A SE EU FOSSE UM HOMEM
+
+#EXTINF:0 tvg-logo="" group-title="LANÇAMENTO",O Parque dos Sonhos
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/PARQUEDOSONHOS-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A Morte Te Dá Parabéns 2
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/AMORTETEDAPARABENS2DUB-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A Batalha das Ardenas
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/ABATALHADASARDENAS-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="",
+
+#EXTINF:0 tvg-logo="" group-title="AÇÃO",Relação Explosiva
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/RELACAOEXPLOSIVA-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Missão Impossível 3
+http://ssb1.netcine.us/html/content/conteudolb/filmes2018/MISSAOIMPOSSIVEL3DUB-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Missão Impossível 2
+http://ssb1.netcine.us/html/content/conteudolb/filmes2018/MISSAOIMPOSSIVEL2DUB-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Missão Impossível
+http://ssb1.netcine.us/html/content/conteudolb/filmes2018/MISSAOIMPOSSIVEL1DUB-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Implacável
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/IMPLACAVEL-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/aIexShV.jpg " group-title="FILMES/TERROR",ESTRADA MALDITA
+http://media-br-am.crackle.com:80/1/3/f6/r7ylf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",QUANDO UM ESTRANHO CHAMA
+http://media-br-am.crackle.com:80/1/p/f6/45ylf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",LENDA URBANA 3
+http://media-br-am.crackle.com:80/1/v/n6/f9ulf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",STIGMATA
+http://media-br-am.crackle.com:80/1/z/v6/j1zlf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",QUARENTENA 
+http://media-br-am.crackle.com:80/1/p/v6/gkvlf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A BEIRA DO ABISMO
+http://media-br-am.crackle.com:80/1/1/v6/r1zlf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",CATIVEIRO
+http://media-br-am.crackle.com:80/1/h/z6/stvlf_480p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",CEMITÉRIO MALDITO
+http://s1history.azureedge.net:80/movies/cemiteriomalditots-dub-480p.mp4 
+
+#EXTINF:0 tvg-logo="" group-title="",NÓS 
+http://s1history.azureedge.net:80/movies/nosts-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",MALIGNO
+http://s1history.azureedge.net:80/movies/theprodigy-leg-360p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",PARQUE DO INFERNO 
+http://s1history.azureedge.net:80/movies/parquedoinferno-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",NÃO ADIANTA REZAR 
+http://s1history.azureedge.net:80/movies/naoadiantarezar-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A CASA DO MEDO
+http://s1history.azureedge.net:80/movies/acasadomedoincedenteemghostland-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="  https://i.imgur.com/GIGfs4s.jpg" group-title="SUSPENSE",VIDRO
+http://d1hst.azureedge.net:80/movies/vidro-dub-360p.mp4
+
+#EXTINF:0 tvg-logo=" https://i.imgur.com/GIGfs4s.jpg  " group-title="",ESCAPE ROOM
+http://d1hst.azureedge.net:80/movies/escaperoom-dub-720p.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GIGfs4s.jpg " group-title="",O PESO DO PASSADO 
+http://d1hst.azureedge.net:80/movies/destroyer-leg-360p.mp4
+
+#EXTINF:0 tvg-logo=" https://i.imgur.com/GIGfs4s.jpg " group-title="",DURANTE A TROMBETA 
+http://d1hst.azureedge.net:80/movies/duranteatormenta-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GIGfs4s.jpg " group-title="",OPERAÇÃO FRONTEIRA
+http://d1hst.azureedge.net:80/movies/operacaofronteira-dub-360p.mp4
+
+#EXTINF:0 tvg-logo="" group-title="ANIMAÇÃO",SuperXlopez
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/SUPERLOPEZ-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Projeto X: Uma Festa Fora de Controle
+https://d361c9k53cb2tb.cloudfront.net/RedeCanais/RedeCanais/RCFServer4/ondemand/PRJTOXUFFDC.mp4/chunk.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",A Lady e o Lobo: O Bicho Tá Solto
+https://lh3.googleusercontent.com/KKHyuL1rsK5LRVqiBSWY96qaD_30jgHMGYDthJ2nUzwQzjO0lq9OYsF3jvHiOA_gyyYBCYZJLHrBPJiIfRACI1s2ofQRaLJAMxQgflmTW1NVA08m-K3c_tmORatUKloRLZyRQSgdgA=m18
+
+#EXTINF:0 tvg-logo="" group-title="",Os Croods
+https://lh3.googleusercontent.com/JnVFy2fKK9LVTkszj_S9LPGBYDL58fV6mGCwKHEnRUavHbOEqh4HLjqMQ8QINJGSJtnBy_Z8UjrZbUKZg4Yaju_lkL51GlhLCO5GcTK3hyt0fRgWFKpi8mnvlbtK3z4C0Sefia5J1w=m22?nome=oscroods2013.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",O Homem das Cavernas
+http://s1.ultracinefilmes.com/ohomemdascavernasdub.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Shaun: O Carneiro
+http://s1.ultracinefilmes.com/shaunocarneirodub.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",O Reino de Superman
+http://s1.netcine.us/html/content/conteudolb3/filmes2019/OREINODOSUPERMAN1-BAIXO.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",A Bela e a Fera
+http://delivery2.ultracinefilmes.com/abelaefera1991dub.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Aladdin
+https://lh3.googleusercontent.com/O7vjAAXPFxRTC9qyrAH214iE9EmM8m4Kji632Q9URPf2zV9nUVBivEZmVB3Kz-WU-3W3SD0sYoqmvYmGgJdYjwHXXbVdh3CJJ6tNVUGMtEqerNyO1bJC3fdTfR0z4Jv-C5d_WEBHMQ=m22?nome=aladdin1992.mp4
+
+#EXTINF:0 tvg-logo="" group-title="",Capitã Marvel
+http://s1.netcine.us/html/content/conteudolb4/filmes2019/CAPITAMARVELDUBHD-BAIXO.mp4
+
+                        
+
+
+
+
+
